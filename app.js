@@ -17,3 +17,5 @@ let d="Kittu";
     console.log(d)
 }
 console.log(d)
+let e = "radhe radhe"
+console.log(e)
